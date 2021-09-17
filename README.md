@@ -1,2 +1,2 @@
 # screenshot-extension
-this is a screenshot taking chrome entemsion
+this is a screenshot taking chrome extension
